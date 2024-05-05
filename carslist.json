@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Maruti Suzuki Swift",
+    "cost": "₹22,50,000",
+    "lowPrice": "₹15,75,000",
+    "imageURL": "https://example.com/images/car1.jpg",
+    "review": "Sleek design and powerful performance make the Maruti Suzuki Swift a top choice."
+  },
+  {
+    "name": "Hyundai i20",
+    "cost": "₹18,75,000",
+    "lowPrice": "₹13,12,500",
+    "imageURL": "https://example.com/images/car2.jpg",
+    "review": "The Hyundai i20 offers excellent fuel efficiency and a comfortable interior."
+  },
+  {
+    "name": "Tata Nexon",
+    "cost": "₹26,25,000",
+    "lowPrice": "₹18,37,500",
+    "imageURL": "https://example.com/images/car3.jpg",
+    "review": "With advanced safety features, the Tata Nexon prioritizes driver and passenger safety."
+  },
+  {
+    "name": "Mahindra XUV500",
+    "cost": "₹30,00,000",
+    "lowPrice": "₹21,00,000",
+    "imageURL": "https://example.com/images/car4.jpg",
+    "review": "Luxurious interior and smooth handling characterize the Mahindra XUV500's driving experience."
+  },
+  {
+    "name": "Maruti Suzuki Alto",
+    "cost": "₹15,00,000",
+    "lowPrice": "₹10,50,000",
+    "imageURL": "https://example.com/images/car5.jpg",
+    "review": "Affordable and reliable, the Maruti Suzuki Alto is perfect for daily commuting."
+  },
+  {
+    "name": "Honda City",
+    "cost": "₹37,50,000",
+    "lowPrice": "₹26,25,000",
+    "imageURL": "https://example.com/images/car6.jpg",
+    "review": "The Honda City combines style and performance for a thrilling driving experience."
+  },
+  {
+    "name": "Toyota Innova Crysta",
+    "cost": "₹33,75,000",
+    "lowPrice": "₹23,62,500",
+    "imageURL": "https://example.com/images/car7.jpg",
+    "review": "The Toyota Innova Crysta's spacious interior and advanced technology redefine comfort."
+  },
+  {
+    "name": "Mahindra Thar",
+    "cost": "₹28,50,000",
+    "lowPrice": "₹19,95,000",
+    "imageURL": "https://example.com/images/car8.jpg",
+    "review": "The Mahindra Thar excels in both city driving and long-distance journeys."
+  },
+  {
+    "name": "Volkswagen Polo",
+    "cost": "₹24,00,000",
+    "lowPrice": "₹16,80,000",
+    "imageURL": "https://example.com/images/car9.jpg",
+    "review": "The Volkswagen Polo's sleek exterior design turns heads on the road."
+  },
+  {
+    "name": "Ford EcoSport",
+    "cost": "₹21,00,000",
+    "lowPrice": "₹14,70,000",
+    "imageURL": "https://example.com/images/car10.jpg",
+    "review": "The Ford EcoSport's sporty performance makes every drive exhilarating."
+  }
+]
